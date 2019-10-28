@@ -1,6 +1,15 @@
 Sample Python SP
 ================
 
+<aside class="warning">
+<br>This sample SP has been retired.  It was used for early prototyping for integrations with login.gov and has not been maintained. It has confirmed vulnerabilities and should not be used for production itegrations.</br> 
+<br>For maintained examples of SAML integrations with login.gov please refer to:
+<ul>https://github.com/18F/identity-saml-rails</ul>
+<ul>https://github.com/18F/identity-saml-sinatra</ul>
+</br>
+ 
+</aside>
+
 [![Build Status](https://travis-ci.org/18F/identity-sp-python.svg?branch=master)](https://travis-ci.org/18F/identity-sp-python)
 
 An example service provider (SP) written in python that integrates with 18F's
