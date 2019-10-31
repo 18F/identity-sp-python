@@ -1,16 +1,16 @@
-Sample Python SP
-================
-
-<aside class="warning">
+Warning:
+========
 
 This sample SP has been retired.  It was used for early prototyping for integrations with login.gov and has not been maintained. It has confirmed vulnerabilities and should not be used for production itegrations.
 
 For maintained examples of SAML integrations with login.gov please refer to:
 
-- https://github.com/18F/identity-saml-rails</ul>
-- https://github.com/18F/identity-saml-sinatra</ul>
- 
-</aside>
+- https://github.com/18F/identity-saml-rails
+- https://github.com/18F/identity-saml-sinatra
+
+Sample Python SP
+================
+
 
 [![Build Status](https://travis-ci.org/18F/identity-sp-python.svg?branch=master)](https://travis-ci.org/18F/identity-sp-python)
 
